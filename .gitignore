@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+obj/Debug/net5.0/DIO.Bank.genruntimeconfig.cache
